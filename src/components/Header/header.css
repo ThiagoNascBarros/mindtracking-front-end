@@ -1,0 +1,24 @@
+:root {
+    --cor-de-font-header: #1F1534;
+    --cor-de-font-header-hover: #2544F3;
+    --cor-de-font-header-logo: #2544F3;
+    --cor-do-button: #2544F4;
+}
+
+.cor-da-font{
+    color: var(--cor-de-font-header);
+    transition: 0.5s;
+}
+
+.cor-da-font:hover {
+    color: var(--cor-de-font-header-hover);
+}
+
+.bg-button {
+    background-color: var(--cor-do-button);
+}
+.cor-azul-logo {
+    color: var(--cor-de-font-header-logo);
+}
+
+
