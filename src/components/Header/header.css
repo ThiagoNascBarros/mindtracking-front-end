@@ -1,8 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
 :root {
     --cor-de-font-header: #1F1534;
     --cor-de-font-header-hover: #2544F3;
     --cor-de-font-header-logo: #2544F3;
     --cor-do-button: #2544F4;
+    --font: 'Roboto';
 }
 
 .cor-da-font{
@@ -21,4 +24,6 @@
     color: var(--cor-de-font-header-logo);
 }
 
-
+.header {
+    font-family: 'roboto';
+}
